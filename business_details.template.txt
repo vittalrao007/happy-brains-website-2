@@ -1,0 +1,91 @@
+# PRESCHOOL IDENTITY
+Preschoolname=[Preschoolname]
+Tagline=[Preschooltagline]
+Schooltype=[Schooltype]
+Principalname=[Principalname]
+Establishedyear=[Establishedyear]
+Aboutpreschool=[Aboutpreschool]
+LogoPath=[LogoPath]
+
+# CONTACT INFORMATION
+Preschoolphonenumber=[Preschoolphonenumber]
+WhatsAppnumber=[WhatsAppnumber]
+Emailaddress=[Emailaddress]
+WebsiteURL=[WebsiteURL]
+
+# ADDRESS
+Addressline1=[Addressline1]
+Addressline2=[Addressline2]
+Area=[Area]
+City=[City]
+State=[State]
+Pincode=[Pincode]
+GoogleMapsURL=[GoogleMapsURL]
+
+# OPERATING HOURS
+Openingtime=[Openingtime]
+Closingtime=[Closingtime]
+Workingdays=[Workingdays]
+Holidayinformation=[Holidayinformation]
+
+# PROGRAMS
+Program1name=[Program1name]
+Program1agegroup=[Program1agegroup]
+Program1description=[Program1description]
+
+Program2name=[Program2name]
+Program2agegroup=[Program2agegroup]
+Program2description=[Program2description]
+
+Program3name=[Program3name]
+Program3agegroup=[Program3agegroup]
+Program3description=[Program3description]
+
+Program4name=[Program4name]
+Program4agegroup=[Program4agegroup]
+Program4description=[Program4description]
+
+# DAYCARE
+Daycareavailable=[Daycareavailable]
+Daycareagegroup=[Daycareagegroup]
+Daycaredescription=[Daycaredescription]
+Daycarehours=[Daycarehours]
+Daycarefacilities=[Daycarefacilities]
+
+# LEARNING AND FACILITIES
+Teachingapproach=[Teachingapproach]
+Facilities=[Facilities]
+Safetymeasures=[Safetymeasures]
+Foodandnutrition=[Foodandnutrition]
+Transportationdetails=[Transportationdetails]
+Admissionprocess=[Admissionprocess]
+Documentsrequired=[Documentsrequired]
+Schoolvisitinformation=[Schoolvisitinformation]
+
+# ADDITIONAL CONTENT
+Testimonial1name=[Testimonial1name]
+Testimonial1text=[Testimonial1text]
+Testimonial2name=[Testimonial2name]
+Testimonial2text=[Testimonial2text]
+Testimonial3name=[Testimonial3name]
+Testimonial3text=[Testimonial3text]
+
+FAQ1question=[FAQ1question]
+FAQ1answer=[FAQ1answer]
+FAQ2question=[FAQ2question]
+FAQ2answer=[FAQ2answer]
+FAQ3question=[FAQ3question]
+FAQ3answer=[FAQ3answer]
+FAQ4question=[FAQ4question]
+FAQ4answer=[FAQ4answer]
+
+# SOCIAL MEDIA
+InstagramURL=[InstagramURL]
+FacebookURL=[FacebookURL]
+YouTubeURL=[YouTubeURL]
+
+# WEBSITE SETTINGS
+Primarycolour=[Primarycolour]
+Secondarycolour=[Secondarycolour]
+Accentcolour=[Accentcolour]
+Galleryfolder=[Galleryfolder]

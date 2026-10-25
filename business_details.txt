@@ -1,0 +1,91 @@
+# PRESCHOOL IDENTITY
+Preschoolname=Happy Brains Pre School
+Tagline=Little Steps Today, Bright Futures Tomorrow!
+Schooltype=Preschool & Daycare
+Principalname=Mrs. Sharma
+Establishedyear=2018
+Aboutpreschool=Happy Brains Pre School is a caring space where young children are known by name, encouraged to ask questions, and given room to be themselves. We offer early education and daycare for young children in a warm, safe and stimulating environment.
+LogoPath=/assets/logo.svg
+
+# CONTACT INFORMATION
+Preschoolphonenumber=+91 97411 10131
+WhatsAppnumber=+91 97311 10131
+Emailaddress=
+WebsiteURL=https://happybrains.edu
+
+# ADDRESS
+Addressline1=12th Main Road, 4th Block
+Addressline2=Near Green Glen Park
+Area=Koramangala
+City=Bengaluru
+State=Karnataka
+Pincode=560034
+GoogleMapsURL=https://maps.google.com/?q=Happy+Brains+Pre+School+Bengaluru
+
+# OPERATING HOURS
+Openingtime=8:30 AM
+Closingtime=6:30 PM
+Workingdays=Monday to Friday
+Holidayinformation=Closed on Sundays & National Holidays
+
+# PROGRAMS
+Program1name=Playgroup
+Program1agegroup=1.5 – 2.5 Years
+Program1description=Early social interaction, sensory exploration and gentle classroom familiarisation.
+
+Program2name=Nursery
+Program2agegroup=2.5 – 3.5 Years
+Program2description=Foundational language, numbers, creativity and motor skills through play.
+
+Program3name=LKG
+Program3agegroup=3.5 – 4.5 Years
+Program3description=Early literacy and numeracy, creative activities and school-readiness skills.
+
+Program4name=UKG
+Program4agegroup=4.5 – 5.5 Years
+Program4description=Communication, early academic concepts, independence and primary-school readiness.
+
+# DAYCARE
+Daycareavailable=Yes
+Daycareagegroup=6 Months – 6 Years
+Daycaredescription=Supervised care, play, rest and age-appropriate activities during working hours.
+Daycarehours=8:30 AM – 6:30 PM
+Daycarefacilities=Dedicated nap room, child-safe cribs, freshly prepared meals, sanitary handwashing stations, indoor sensory play
+
+# LEARNING AND FACILITIES
+Teachingapproach=Play-based learning where games, blocks, sand, stories and songs turn every day into discovery.
+Facilities=Spacious classrooms, creative art corners, reading nook, safe outdoor playground, cozy daycare nap room, hygienic child-height washrooms
+Safetymeasures=Supervised handover at pickup, controlled visitor entry, first-aid certified staff, safe rounded furniture, background-checked attendants
+Foodandnutrition=Nutritious morning and afternoon snacks, warm lunches, pure filtered drinking water, strict allergy awareness
+Transportationdetails=Safe, GPS-monitored school van service with female attendant on designated neighbourhood routes
+Admissionprocess=1. Contact the school via Call or WhatsApp; 2. Discuss age & program; 3. Arrange a school visit; 4. Review fees & documents; 5. Complete enrollment.
+Documentsrequired=Child's birth certificate copy, 4 passport photos, vaccination card copy, address proof of parents
+Schoolvisitinformation=School visits are welcomed Monday to Friday 9:30 AM to 12:30 PM by prior appointment.
+
+# ADDITIONAL CONTENT
+Testimonial1name=Priya & Rahul Raman
+Testimonial1text=Happy Brains Pre School has been a second home for our toddler. The educators are deeply patient and caring, and we see our daughter blossoming in confidence every single day.
+Testimonial2name=Ananya Deshmukh
+Testimonial2text=The daycare facility gives me complete peace of mind while at work. Clean, loving, and attentive staff who genuinely know every child's personality.
+Testimonial3name=Vikram & Sangeetha Nair
+Testimonial3text=From gentle separation in playgroup to confident reading in UKG, our son has truly loved waking up for school every morning.
+
+FAQ1question=What age groups does the preschool accept?
+FAQ1answer=We welcome children from 1.5 to 5.5 years for preschool programs, and 6 months to 6 years for our daycare facility.
+FAQ2question=Which preschool programs are available?
+FAQ2answer=We offer Playgroup, Nursery, LKG, and UKG programs, along with flexible half-day and full-day daycare options.
+FAQ3question=What are the school and daycare timings?
+FAQ3answer=Preschool operates from 9:00 AM to 12:30 PM. Daycare is open from 8:30 AM to 6:30 PM, Monday through Friday.
+FAQ4question=Is daycare available for working parents?
+FAQ4answer=Yes, dependable daycare is available with quiet nap arrangements, healthy snacks, supervised play, and verified guardian handover.
+
+# SOCIAL MEDIA
+InstagramURL=https://instagram.com/happybrainspreschool
+FacebookURL=https://facebook.com/happybrainspreschool
+YouTubeURL=https://youtube.com/@happybrainspreschool
+
+# WEBSITE SETTINGS
+Primarycolour=#FFC83D
+Secondarycolour=#DFF2FC
+Accentcolour=#20A464
+Galleryfolder=public/images/gallery

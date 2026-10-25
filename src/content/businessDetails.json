@@ -1,0 +1,136 @@
+{
+  "identity": {
+    "name": "Happy Brains Pre School",
+    "tagline": "Little Steps Today, Bright Futures Tomorrow!",
+    "schoolType": "Preschool & Daycare",
+    "principalName": "Mrs. Sharma",
+    "establishedYear": "2018",
+    "about": "Happy Brains Pre School is a caring space where young children are known by name, encouraged to ask questions, and given room to be themselves. We offer early education and daycare for young children in a warm, safe and stimulating environment.",
+    "logoPath": "/assets/logo.svg"
+  },
+  "contact": {
+    "phone": "+91 97411 10131",
+    "phoneTelLink": "tel:+919741110131",
+    "whatsapp": "+91 97311 10131",
+    "whatsappChatLink": "https://wa.me/919731110131?text=Hello%2C%20I%20would%20like%20to%20know%20more%20about%20admissions%20at%20Happy%20Brains%20Pre%20School.",
+    "email": "",
+    "emailMailto": "",
+    "websiteUrl": "https://happybrains.edu"
+  },
+  "address": {
+    "line1": "12th Main Road, 4th Block",
+    "line2": "Near Green Glen Park",
+    "area": "Koramangala",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "pincode": "560034",
+    "formattedFull": "12th Main Road, 4th Block, Near Green Glen Park, Koramangala, Bengaluru, Karnataka, 560034",
+    "googleMapsUrl": "https://maps.google.com/?q=Happy+Brains+Pre+School+Bengaluru"
+  },
+  "hours": {
+    "opening": "8:30 AM",
+    "closing": "6:30 PM",
+    "workingDays": "Monday to Friday",
+    "holidayInfo": "Closed on Sundays & National Holidays",
+    "formattedSummary": "8:30 AM – 6:30 PM (Monday to Friday)"
+  },
+  "programs": [
+    {
+      "id": "program-1",
+      "name": "Playgroup",
+      "ageGroup": "1.5 – 2.5 Years",
+      "description": "Early social interaction, sensory exploration and gentle classroom familiarisation."
+    },
+    {
+      "id": "program-2",
+      "name": "Nursery",
+      "ageGroup": "2.5 – 3.5 Years",
+      "description": "Foundational language, numbers, creativity and motor skills through play."
+    },
+    {
+      "id": "program-3",
+      "name": "LKG",
+      "ageGroup": "3.5 – 4.5 Years",
+      "description": "Early literacy and numeracy, creative activities and school-readiness skills."
+    },
+    {
+      "id": "program-4",
+      "name": "UKG",
+      "ageGroup": "4.5 – 5.5 Years",
+      "description": "Communication, early academic concepts, independence and primary-school readiness."
+    }
+  ],
+  "daycare": {
+    "available": true,
+    "ageGroup": "6 Months – 6 Years",
+    "description": "Supervised care, play, rest and age-appropriate activities during working hours.",
+    "hours": "8:30 AM – 6:30 PM",
+    "facilities": "Dedicated nap room, child-safe cribs, freshly prepared meals, sanitary handwashing stations, indoor sensory play"
+  },
+  "approachAndFacilities": {
+    "teachingApproach": "Play-based learning where games, blocks, sand, stories and songs turn every day into discovery.",
+    "facilities": "Spacious classrooms, creative art corners, reading nook, safe outdoor playground, cozy daycare nap room, hygienic child-height washrooms",
+    "safetyMeasures": "Supervised handover at pickup, controlled visitor entry, first-aid certified staff, safe rounded furniture, background-checked attendants",
+    "foodAndNutrition": "Nutritious morning and afternoon snacks, warm lunches, pure filtered drinking water, strict allergy awareness",
+    "transportation": "Safe, GPS-monitored school van service with female attendant on designated neighbourhood routes",
+    "admissionProcess": "1. Contact the school via Call or WhatsApp; 2. Discuss age & program; 3. Arrange a school visit; 4. Review fees & documents; 5. Complete enrollment.",
+    "documentsRequired": "Child's birth certificate copy, 4 passport photos, vaccination card copy, address proof of parents",
+    "schoolVisitInfo": "School visits are welcomed Monday to Friday 9:30 AM to 12:30 PM by prior appointment."
+  },
+  "testimonials": [
+    {
+      "id": "testimonial-1",
+      "name": "Priya & Rahul Raman",
+      "text": "Happy Brains Pre School has been a second home for our toddler. The educators are deeply patient and caring, and we see our daughter blossoming in confidence every single day."
+    },
+    {
+      "id": "testimonial-2",
+      "name": "Ananya Deshmukh",
+      "text": "The daycare facility gives me complete peace of mind while at work. Clean, loving, and attentive staff who genuinely know every child's personality."
+    },
+    {
+      "id": "testimonial-3",
+      "name": "Vikram & Sangeetha Nair",
+      "text": "From gentle separation in playgroup to confident reading in UKG, our son has truly loved waking up for school every morning."
+    }
+  ],
+  "faqs": [
+    {
+      "id": "faq-1",
+      "question": "What age groups does the preschool accept?",
+      "answer": "We welcome children from 1.5 to 5.5 years for preschool programs, and 6 months to 6 years for our daycare facility."
+    },
+    {
+      "id": "faq-2",
+      "question": "Which preschool programs are available?",
+      "answer": "We offer Playgroup, Nursery, LKG, and UKG programs, along with flexible half-day and full-day daycare options."
+    },
+    {
+      "id": "faq-3",
+      "question": "What are the school and daycare timings?",
+      "answer": "Preschool operates from 9:00 AM to 12:30 PM. Daycare is open from 8:30 AM to 6:30 PM, Monday through Friday."
+    },
+    {
+      "id": "faq-4",
+      "question": "Is daycare available for working parents?",
+      "answer": "Yes, dependable daycare is available with quiet nap arrangements, healthy snacks, supervised play, and verified guardian handover."
+    }
+  ],
+  "social": {
+    "instagram": "https://instagram.com/happybrainspreschool",
+    "facebook": "https://facebook.com/happybrainspreschool",
+    "youtube": "https://youtube.com/@happybrainspreschool"
+  },
+  "settings": {
+    "primaryColour": "#FFC83D",
+    "secondaryColour": "#DFF2FC",
+    "accentColour": "#20A464",
+    "galleryFolder": "public/images/gallery"
+  },
+  "meta": {
+    "lastParsedAt": "2026-10-25T07:01:16.116Z",
+    "totalKeysParsed": 68,
+    "unresolvedCount": 0,
+    "unresolvedFields": []
+  }
+}

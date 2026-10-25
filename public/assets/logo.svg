@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 60" width="240" height="60" fill="none">
+  <!-- Sun & Book Icon Box -->
+  <rect x="2" y="6" width="48" height="48" rx="14" fill="#38A3A5" />
+  
+  <!-- Sun & Rays -->
+  <circle cx="26" cy="25" r="9" fill="#FFC83D" />
+  <!-- Sun rays -->
+  <path d="M26 11V8M26 42V39M12 25H9M43 25H40M16 15L14 13M36 35L34 33M16 35L14 37M36 15L38 13" stroke="#FFC83D" stroke-width="2" stroke-linecap="round" />
+  
+  <!-- Open Book / White Wave -->
+  <path d="M14 39C18 36 23 37 26 39C29 37 34 36 38 39" stroke="#FFFFFF" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" />
+  
+  <!-- Preschool Name -->
+  <text x="60" y="30" font-family="'Plus Jakarta Sans', system-ui, -apple-system, sans-serif" font-size="20" font-weight="800" fill="#172A3A" letter-spacing="-0.3">Happy Brains</text>
+  <text x="61" y="46" font-family="'Plus Jakarta Sans', system-ui, -apple-system, sans-serif" font-size="11" font-weight="700" fill="#38A3A5" letter-spacing="3.2">PRE SCHOOL</text>
+</svg>

@@ -1,0 +1,54 @@
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    --color-blush: #FFF4F1;
+    --color-sky: #DFF2FC;
+    --color-yellow: #FFC83D;
+    --color-mint: #DDF5E8;
+    --color-whatsapp: #20A464;
+    --color-navy: #172A3A;
+    --color-muted: #687786;
+  }
+
+  html {
+    font-family: 'Plus Jakarta Sans', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+    scroll-behavior: smooth;
+    -webkit-tap-highlight-color: transparent;
+  }
+
+  body {
+    background-color: #FFF9F7;
+    color: #172A3A;
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+  }
+}
+
+/* Scalloped / Wavy ribbon banner as seen in reference screenshots (Page 3) */
+.scallop-banner {
+  background-color: #FFC83D;
+  position: relative;
+  mask-image: radial-gradient(circle 9px at 12px 0, transparent 9px, black 9.5px),
+              radial-gradient(circle 9px at 12px 100%, transparent 9px, black 9.5px);
+  mask-position: 0 0, 0 100%;
+  mask-size: 24px 100%;
+  mask-repeat: repeat-x;
+}
+
+/* Rounded decorative pastel blob shapes */
+.pastel-blob-blue {
+  background: radial-gradient(circle at 60% 40%, #DFF2FC 0%, rgba(223, 242, 252, 0.4) 70%, transparent 100%);
+}
+
+.pastel-blob-peach {
+  background: radial-gradient(circle at 40% 60%, #FFEBE6 0%, rgba(255, 235, 230, 0.3) 70%, transparent 100%);
+}
+
+/* Custom dashed outline box matching reference notices */
+.reference-notice-box {
+  background-color: #FFFFFF;
+  border: 1.5px dashed #4CA1D9;
+  border-radius: 16px;
+}

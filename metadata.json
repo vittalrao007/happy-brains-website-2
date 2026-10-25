@@ -1,0 +1,6 @@
+{
+  "name": "Happy Brains Pre School & Daycare",
+  "description": "A warm, pastel-themed preschool and daycare website with centralized business details configuration, call and WhatsApp integration, and mobile-first responsiveness.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
